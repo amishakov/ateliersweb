@@ -1,3 +1,5 @@
+Projet archivé suite à la migration des ressources et références vers [radicalweb.design](https://radicalweb.design).
+
 # Ateliers web
 
 Les ressources et références mises à disposition dans cet espace sont dédiées aux étudiant·e·s de l’[École supérieure d’art et de design des Pyrénées](https://esad-pyrenees.fr/), mais également ouvertes à tou·te·s.
